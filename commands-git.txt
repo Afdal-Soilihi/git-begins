@@ -1,0 +1,16 @@
+git clone
+
+. git remote add origin https://github.com/Afdal-Soilihi/git-begins.git
+. git branch -M main
+. git push -u origin main
+La commande pour pull
+git pull
+
+la commande pour créer une branche
+
+git branch
+
+la commande pour switcher
+git checkout
+
+
